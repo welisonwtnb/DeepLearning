@@ -1,5 +1,6 @@
 ﻿# DeepLearning
-CIFAR-10 Image Classifier
+# CIFAR-10 Image Classifier
+
 This repository contains a Python script that builds a Convolutional Neural Network (CNN) using TensorFlow and Keras to classify images from the CIFAR-10 dataset. The script includes data preparation, model creation, training, evaluation, and testing on a custom image.
 
 Dataset
