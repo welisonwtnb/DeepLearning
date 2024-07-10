@@ -14,4 +14,3 @@ Requirements
 - NumPy
 - Matplotlib
 - OpenCV
-- Setup
